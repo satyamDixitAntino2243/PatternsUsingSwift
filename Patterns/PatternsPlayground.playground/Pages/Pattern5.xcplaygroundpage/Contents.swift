@@ -25,3 +25,9 @@ var greeting = "Hello, playground"
  
  
  */
+
+func invertedRightPyramid(_ n: Int) {
+    for i in 1...n {
+        
+    }
+}
